@@ -45,10 +45,6 @@ Senior full-stack engineer with 9+ years of experience designing and shipping sc
   <img src="https://streak-stats.demolab.com/?user=yemaungmaung&theme=default&hide_border=true" height="150" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yemaungmaung&theme=flat&no-frame=true&column=6&margin-w=8" />
-</p>
-
 ---
 
 ### Domain experience
