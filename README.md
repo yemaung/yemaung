@@ -42,7 +42,7 @@ Senior full-stack engineer with 9+ years of experience designing and shipping sc
 ### GitHub stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=yemaungmaung&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=yemaung&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
@@ -75,6 +75,6 @@ Strong preference for **fintech, infrastructure, developer tooling, or high-scal
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yemaungmaung-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yemaungmaung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yemaung-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yemaung)
 [![Email](https://img.shields.io/badge/Email-yemaung.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yemaung.dev@gmail.com)
 ![Location](https://img.shields.io/badge/Based_in-Greater_Tokyo,_Japan-red?style=flat-square&logo=google-maps&logoColor=white)
