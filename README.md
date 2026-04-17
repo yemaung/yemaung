@@ -61,12 +61,6 @@ Senior full-stack engineer with 9+ years of experience designing and shipping sc
 
 I am actively exploring senior full-stack / backend roles.
 
-| Market | Preference |
-|---|---|
-| 🇯🇵 Japan (Greater Tokyo) | On-site or hybrid · English-first teams · No sponsorship required |
-| 🇨🇦 Canada | On-site or hybrid · Calgary / Vancouver / Toronto |
-| 🇺🇸 United States | Remote only |
-
 Strong preference for **fintech, infrastructure, developer tooling, or high-scale product** companies.
 
 > Graduate Certificate in Computer Science, Monash University (2025–2026) · JLPT N5 in progress
